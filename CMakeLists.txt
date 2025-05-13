@@ -12,6 +12,6 @@ add_executable(crc32_crack main.cpp
 if (MSVC)
     target_compile_options(crc32_crack PUBLIC /W4)
 else ()
-    target_compile_options(crc32_crack PUBLIC -Wall -Wextra -Wpedantic -Wconver\
+    target_compile_options(crc32_crack PUBLIC -Wall -Wextra -Wpedantic -Wconver
 sion -Wsign-conversion)
 endif ()

@@ -3,8 +3,8 @@
 #include <limits>
 #include <vector>
 
-#include "CRC32.hpp"
-#include "IO.hpp"
+#include "../include/CRC32.hpp"
+#include "../include/IO.hpp"
 
 /// @brief Переписывает последние 4 байта значением value                                                                                        
 void replaceLastFourBytes(std::vector<char> &data, uint32_t value) {
