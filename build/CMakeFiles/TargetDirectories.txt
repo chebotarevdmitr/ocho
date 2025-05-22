@@ -1,0 +1,3 @@
+/home/dmitriy/Documents/my_basic_course/dz/ocho/build/CMakeFiles/crc32_crack.dir
+/home/dmitriy/Documents/my_basic_course/dz/ocho/build/CMakeFiles/edit_cache.dir
+/home/dmitriy/Documents/my_basic_course/dz/ocho/build/CMakeFiles/rebuild_cache.dir

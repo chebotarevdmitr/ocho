@@ -1,0 +1,2 @@
+Test data for CRC32
+He-he-he€W
