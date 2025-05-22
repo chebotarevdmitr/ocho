@@ -1,0 +1,15 @@
+ # Исключаем директорию сборки
+build/
+
+# Исключаем выходные файлы программы
+output.txt
+*.out
+
+# Исключаем резервные файлы
+*.bak
+
+# Исключаем временные файлы CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
