@@ -13,7 +13,7 @@ CMake версии 3.10 или выше
 
 ## Установка
 Склонируйте репозиторий:
-git clone https://github.com/my_username/crc32_crack.git
+git clone https://github.com/cebotarevdmitr/crc32_crack.git
 cd crc32_crack
 
 Создайте директорию для сборки и скомпилируйте программу:
